@@ -1,6 +1,6 @@
 # Data cleaning_ Google sheet project.
 
-End-to-end data cleaning and preparation project using Microsoft Excel, with documented steps for improving data quality and consistency.
+End-to-end data cleaning and preparation project using Google sheet, with documented steps for improving data quality and consistency.
 
 project Overview
 
@@ -9,7 +9,7 @@ This project demonstrates the process of cleaning and preparing a raw dataset fo
 The objective was to identify and correct data-quality issues such as duplicate records, missing values, inconsistent formatting, and invalid entries.
 
 Tools Used
-▶ Microsoft Excel
+▶ Google sheet
 ▶ Github
 
 Data Cleaning Process
@@ -52,14 +52,14 @@ Column headings, including placing the currency symbols in the right columns
 
 Before  the cleaning of the dataset and After the cleaning of the dataset.   
 The raw dataset was preserved separately to maintain the original data.
-▶ [Project Data - Raw Data.csv](https://github.com/user-attachments/files/31549229/Project.Data.-.Raw.Data.csv)
-▶ [Project Data - Cleaned Data.csv](https://github.com/user-attachments/files/31549963/Project.Data.-.Cleaned.Data.csv)
-▶ [Project Data - Currency formatting.csv](https://github.com/user-attachments/files/31549983/Project.Data.-.Currency.formatting.csv)
-▶ [Project Data - Date Formatting.csv](https://github.com/user-attachments/files/31550018/Project.Data.-.Date.Formatting.csv)
-▶ [Project Data - Coupon Code formatting.csv](https://github.com/user-attachments/files/31550055/Project.Data.-.Coupon.Code.formatting.csv)
-▶ [Project Data - Quantity Data Validation.csv](https://github.com/user-attachments/files/31550112/Project.Data.-.Quantity.Data.Validation.csv)
-▶ [Project Data - Product Data Validation.csv](https://github.com/user-attachments/files/31550124/Project.Data.-.Product.Data.Validation.csv)
-▶ [Project Data - Validation on Payment Method.csv](https://github.com/user-attachments/files/31550142/Project.Data.-.Validation.on.Payment.Method.csv)
+► [Project Data - Raw Data.csv](https://github.com/user-attachments/files/31549229/Project.Data.-.Raw.Data.csv)
+► [Project Data - Cleaned Data.csv](https://github.com/user-attachments/files/31549963/Project.Data.-.Cleaned.Data.csv)
+► [Project Data - Currency formatting.csv](https://github.com/user-attachments/files/31549983/Project.Data.-.Currency.formatting.csv)
+► [Project Data - Date Formatting.csv](https://github.com/user-attachments/files/31550018/Project.Data.-.Date.Formatting.csv)
+► [Project Data - Coupon Code formatting.csv](https://github.com/user-attachments/files/31550055/Project.Data.-.Coupon.Code.formatting.csv)
+► [Project Data - Quantity Data Validation.csv](https://github.com/user-attachments/files/31550112/Project.Data.-.Quantity.Data.Validation.csv)
+► [Project Data - Product Data Validation.csv](https://github.com/user-attachments/files/31550124/Project.Data.-.Product.Data.Validation.csv)
+► [Project Data - Validation on Payment Method.csv](https://github.com/user-attachments/files/31550142/Project.Data.-.Validation.on.Payment.Method.csv)
 
    Outcome
    
